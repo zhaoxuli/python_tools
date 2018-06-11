@@ -6,4 +6,4 @@
 	* 在摁`s`之前，摁`r` 重新标注本张图片 
 
 标注顺序如下所示	
-![Alt text](./show_img.jpg)
+![Alt text](../ShowImage/show_img.jpg)
